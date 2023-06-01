@@ -2,7 +2,7 @@
 
 Une bibliotheque open-source qui permet la construction d'interfaces graphiques avec HTML CSS et JS
 
-Au programme : 
+## Au programme : 
  - Comprendre les avantages apportés par React
  - Decouvrir le **JSX** (Javascript XML) exstention de JS 
  - Creer des **composants**
@@ -17,4 +17,13 @@ C'est la representatiopn 'objet' des éléments HTML qui constitue une page web.
 React utilise un DOM Virtuel pour afficher ses compossants (Virtual DOM,Shadow DOM), car manipuler le DOM directement peut être trés couteux. 
 
 Le JSX n'est pas directement 
+
+
+## Les imports et les exports en JS :
+ - Les exports/imports nommes 
+ - L'export default
+
+
+## Les props : 
+ - optionnels
 
